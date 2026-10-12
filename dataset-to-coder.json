@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS S3 bucket name from an S3 URI in the format s3://bucket-name/key/path",
+    "format": "regex"
+  },
+  {
+    "task": "Create a JSON IAM policy that allows read-only access to a specific S3 bucket",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that converts an AWS ARN string into its component parts (service, region, account-id, resource)",
+    "format": "python"
+  }
+]

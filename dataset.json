@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon preparation with carbohydrate loading and performance timing for long-distance endurance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Provides 4-6 meals/snacks distributed throughout the day with timing guidance relative to training",
+      "Emphasizes carbohydrate-rich foods appropriate for endurance athlete (at least 7-10g carbs per kg body weight)",
+      "Includes pre-workout, during-workout (if applicable), and post-workout nutrition timing",
+      "Remains concise and compact in presentation (single day format)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring high calorie intake and carbohydrate loading, with specific performance timing requirements"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "85",
+      "goal": "muscle recovery and strength maintenance for weightlifting",
+      "restrictions": "vegetarian"
+    },
+    "solution_criteria": [
+      "Meal plan covers all meals for one full day (breakfast, lunch, dinner, snacks)",
+      "All meals are vegetarian with no animal flesh products",
+      "Provides adequate protein (minimum 1.6g per kg bodyweight) from plant-based sources",
+      "Macronutrient distribution supports muscle recovery (carbs 45-50%, protein 25-30%, fats 20-25%)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) with dietary restrictions (vegetarian/vegan), requiring specific macro nutrient ratios for muscle recovery"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "75 kg",
+      "goal": "Lose 3 kg over 2 weeks for weight-class competition while maintaining boxing performance and strength",
+      "restrictions": "No dairy, vegetarian"
+    },
+    "solution_criteria": [
+      "Meal plan spans exactly 1 day with 3-4 meals that create a moderate calorie deficit (approximately 300-500 kcal below maintenance)",
+      "Includes meal timing around training sessions (pre-workout carbs/protein, post-workout recovery nutrition)",
+      "All meals comply with vegetarian and dairy-free restrictions",
+      "Maintains adequate protein intake (minimum 1.6g per kg body weight) to preserve muscle during weight loss"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with an athlete in a weight-class sport (boxer/wrestler) needing a controlled calorie deficit while maintaining performance, with meal timing around training sessions"
+  }
+]
